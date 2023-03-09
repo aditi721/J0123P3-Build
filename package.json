@@ -1,0 +1,26 @@
+{
+  "name": "j0123p3-build",
+  "version": "1.0.0",
+  "description": "Library System",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aditi721/J0123P3-Build.git"
+  },
+  "author": "aditi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aditi721/J0123P3-Build/issues"
+  },
+  "homepage": "https://github.com/aditi721/J0123P3-Build#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
